@@ -1,5 +1,8 @@
-# Flipper-Zero-External-CC1101-Module
+# Flipper Zero External CC1101 Module
 A universal module to add an external CC1101 modue to the Flipper Zero
+
+# TO DO
+Add description to Readme explaining use of the module and its features
 
 
 # Purchasing
