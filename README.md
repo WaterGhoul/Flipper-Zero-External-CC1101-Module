@@ -1,9 +1,12 @@
 # Flipper Zero External CC1101 Module
 A universal module to add an external CC1101 modue to the Flipper Zero
 
-# TO DO
-Add description to Readme explaining use of the module and its features
+# Configuration
+This board is by default configured for an EByte CC1101 module, with the jumpers left as-is. These jumper pads are indicated by the surrounding dashed lined rectangle. 
+![](images/ebyte.JPG)
 
+To congfigure the board for a generic CC1101 module, cut the default jumper traces with a knife and bridge the opposite jumper pads, indicated by the surounding solid lined rectangle.
+![](images/generic.JPG)
 
 # Purchasing
 You can purchase this and my other products on Tindie!
